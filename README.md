@@ -7,6 +7,7 @@
 ![image](https://github.com/kimdayeon37/HCI_Prototype/assets/93921784/2ef051bc-c34c-4a1a-8e48-cb2505a2c1a2)
 
 <br/>
+
 ## ⚡ 기술 스택 
 <img src="https://img.shields.io/badge/r-276DC3?style=for-the-badge&logo=r&logoColor=white"> <img src="https://img.shields.io/badge/vue-4FC08D?style=for-the-badge&logo=vue&logoColor=white">
 
