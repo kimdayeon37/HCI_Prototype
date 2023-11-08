@@ -1,0 +1,65 @@
+{
+  "name": "hci-kor-text-correction",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "@tiptap/extension-document": "^2.0.0-beta.204",
+    "@tiptap/extension-heading": "^2.0.0-beta.204",
+    "@tiptap/extension-highlight": "^2.0.0-beta.204",
+    "@tiptap/extension-paragraph": "^2.0.0-beta.204",
+    "@tiptap/extension-placeholder": "^2.0.0-beta.204",
+    "@tiptap/extension-underline": "^2.0.0-beta.204",
+    "@tiptap/starter-kit": "^2.0.0-beta.204",
+    "@tiptap/vue-2": "^2.0.0-beta.204",
+    "axios": "^1.2.0",
+    "core-js": "^3.6.5",
+    "korean-index-of": "^1.1.1",
+    "register-service-worker": "^1.7.1",
+    "splitpanes": "^2.4.1",
+    "vue": "^2.6.11",
+    "vue-router": "^3.2.0",
+    "vuetify": "^2.6.0",
+    "vuex": "^3.4.0"
+  },
+  "devDependencies": {
+    "@mdi/font": "^7.0.96",
+    "@vue/cli-plugin-babel": "~4.5.15",
+    "@vue/cli-plugin-eslint": "~4.5.15",
+    "@vue/cli-plugin-pwa": "~4.5.15",
+    "@vue/cli-plugin-router": "~4.5.15",
+    "@vue/cli-plugin-vuex": "~4.5.15",
+    "@vue/cli-service": "~4.5.15",
+    "babel-eslint": "^10.1.0",
+    "eslint": "^6.7.2",
+    "eslint-plugin-vue": "^6.2.2",
+    "sass": "~1.32.0",
+    "sass-loader": "^10.0.0",
+    "vue-cli-plugin-vuetify": "~2.5.8",
+    "vue-template-compiler": "^2.6.11",
+    "vuetify-loader": "^1.7.0"
+  },
+  "eslintConfig": {
+    "root": true,
+    "env": {
+      "node": true
+    },
+    "extends": [
+      "plugin:vue/essential",
+      "eslint:recommended"
+    ],
+    "parserOptions": {
+      "parser": "babel-eslint"
+    },
+    "rules": {}
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "KW-HCI 맞춤법 검사 UX/UI 사용성 평가",
+  "short_name": "KW-HCI SPELLCHECK",
+  "icons": [],
+  "start_url": "/",
+  "scope": ".",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#fff",
+  "theme_color": "#fff",
+  "description": "KW-HCI 맞춤법 검사 UX/UI 사용성 평가",
+  "dir": "ltr",
+  "lang": "ko-KR"
+}
