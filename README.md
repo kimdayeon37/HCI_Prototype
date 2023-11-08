@@ -1,10 +1,14 @@
 # ✍ 맞춤법 교정 프로토타입 개선 사항 연구
+## HCI와 UX 평
 가설 설정 후 개발 프로토타입으로 사용자 평가 실험 진행 및 ANOVA & Regression을 통한 결과 분석을 진행하였습니다.
 <br/>
 <br />
 
 ## ⚡ 기술 스택 
 <img src="https://img.shields.io/badge/r-276DC3?style=for-the-badge&logo=r&logoColor=white"> <img src="https://img.shields.io/badge/vue-4FC08D?style=for-the-badge&logo=vue&logoColor=white">
+
+개발기간 [2022.11.01~2022.11.30]
+
 <br/>
 <br />
 
